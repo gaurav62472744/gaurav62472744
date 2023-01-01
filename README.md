@@ -65,7 +65,7 @@ Want to know more about me? [Check out My Portfolio](https://gaurav62472744.gith
 <h3 align="center">🏆 Achivements</h3>
 <div align="center" >
 
-![](https://github-profile-trophy.vercel.app/?username=akshaykadu24&column=-1&theme=chalk&rank=-?&margin-w=25)
+![](https://github-profile-trophy.vercel.app/?username=gaurav62472744&column=-1&theme=chalk&rank=-?&margin-w=25)
 </div>
 <hr>
 <div align="center" >
