@@ -62,5 +62,12 @@ Want to know more about me? [Check out My Portfolio](https://gaurav62472744.gith
 <hr>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gaurav62472744&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+<h3 align="center">🏆 Achivements</h3>
+<div align="center" >
+
+![](https://github-profile-trophy.vercel.app/?username=akshaykadu24&column=-1&theme=chalk&rank=-?&margin-w=25)
+</div>
+<hr>
+<div align="center" >
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
+</div>
