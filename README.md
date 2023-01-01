@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://media0.giphy.com/media/e8qvtPuCyKXI4qJK7d/giphy.gif?cid=ecf05e47o175wlbikq00ni5y35iixgfg5ihhrxvhtreiyspx&rid=giphy.gif&ct=g" />
+ <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 </div>
 
 <h1 align="center">Hi 👋, I am Gaurav Singh</h1>
