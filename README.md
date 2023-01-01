@@ -75,5 +75,5 @@ Want to know more about me? [Check out My Portfolio](https://gaurav62472744.gith
 </div>
 <hr>
 <div align="center" >
-![snake gif](https://github.com/gaurav62472744/gaurav62472744/blob/output/github-contribution-grid-snake.svg) 
+![snake gif](https://github.com/gaurav62472744/blob/output/github-contribution-grid-snake.svg) 
 </div>
