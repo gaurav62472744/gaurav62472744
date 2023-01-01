@@ -73,4 +73,5 @@ Want to know more about me? [Check out My Portfolio](https://gaurav62472744.gith
 ![](https://github-profile-trophy.vercel.app/?username=gaurav62472744&column=-1&theme=chalk&rank=-?&margin-w=25)
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
