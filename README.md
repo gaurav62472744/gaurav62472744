@@ -74,6 +74,4 @@ Want to know more about me? [Check out My Portfolio](https://gaurav62472744.gith
 ![](https://github-profile-trophy.vercel.app/?username=gaurav62472744&column=-1&theme=chalk&rank=-?&margin-w=25)
 </div>
 <hr>
-<div align="center" >
-![snake gif](https://github.com/gaurav62472744/blob/output/github-contribution-grid-snake.svg) 
-</div>
+
