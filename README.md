@@ -50,7 +50,7 @@ Want to know more about me? [Check out My Portfolio](https://gaurav62472744.gith
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center" margin-top="20px"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left">
 <a href="https://github.com/gaurav62472744">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=gaurav62472744&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
@@ -59,8 +59,7 @@ Want to know more about me? [Check out My Portfolio](https://gaurav62472744.gith
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gaurav62472744&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p>
 </a>
 </p>
-<hr>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="left">Social Media </h2>
 
 
