@@ -3,7 +3,7 @@
  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 </div>
 
-<h1 align="center"><img src="https://fontmeme.com/temporary/ddb0f99e3e336c24dc78aa12bc143580.png"></h1>
+<h1 align="center"><img src="https://fontmeme.com/temporary/bba5011906a76a10c6fc301a71646839.png"></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
