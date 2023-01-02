@@ -3,7 +3,7 @@
  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 </div>
 
-<h1 align="center">Hi 👋, I am Gaurav Singh</h1>
+<h1 align="center"><img src="https://fontmeme.com/temporary/52172397c0a2131d560f28edbc863e42.png"></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
