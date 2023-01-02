@@ -1,9 +1,8 @@
 
 <div align="center">
- <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
+ <img  width="100%" height="500" src="https://user-images.githubusercontent.com/110033104/210275329-a80ceb51-e79d-4271-8643-26b82c336549.jpg" />
 </div>
 
-<h1 align="center"><img src="https://fontmeme.com/temporary/bba5011906a76a10c6fc301a71646839.png"></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;Problem+Solver;&color=teal&center=true" />
