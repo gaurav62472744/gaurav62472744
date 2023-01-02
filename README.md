@@ -57,7 +57,7 @@ Want to know more about me? [Check out My Portfolio](https://gaurav62472744.gith
 
 <h2 align="center" margin-top="20px"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="left">
+<p align="center">
 <a href="https://github.com/gaurav62472744">
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjankumar9&theme=github">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gaurav62472744&layout=compact&langs_count=8&theme=algolia"/>
