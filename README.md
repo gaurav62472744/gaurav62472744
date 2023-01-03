@@ -27,8 +27,6 @@ industry to utilize my skills and learn more.
 
 📫 How to reach me: anu62472744@gmail.com<br>
 
-Want to know more about me? [Check out My Portfolio](https://gaurav62472744.github.io/)
-
 <h3 align="left">Connect with me:</h3>
 <ul>
 <li>
