@@ -66,12 +66,7 @@ Want to know more about me? [Check out My Portfolio](https://gaurav62472744.gith
 </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="left">Social Media </h2>
 
-
-[<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Github_white.svg' alt='github' height='40' width='60'>](https://github.com/gaurav62472744)  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg' alt='linkedin' height='40' width='60'>](https://www.linkedin.com/in/gaurav-singh-63196723a/)  
-
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gaurav62472744&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">🏆 Achivements</h3>
 <div align="center" >
