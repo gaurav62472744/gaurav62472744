@@ -20,16 +20,12 @@ industry to utilize my skills and learn more.
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Good Tech Skills<br>
-🌱 I’m currently learning Full Stack Web Development<br>
-💬 Ask me about Coding...<br>
-👯 Interested in ai technologies...<br>
+👯 Interested in AI technologies...<br>
 👯 Self Motivated<br>
-⚡ Quick learner<br>
-💬 Ask me about Mongodb, express, React, Node, Javascript, HTML, CSS, DSA<br>
+
+💬 Ask me about Mongo DB, Express JS, React, Node, JavaScript, HTML, CSS, DSA <br>
 
 📫 How to reach me: anu62472744@gmail.com<br>
-
-⚡ Want to Know More About Experience: [Check out My Resume](https://drive.google.com/file/d/1pn4zSo8nAFurcvq1DALY5tLMBKGeYwEC/view?usp=share_link)<br>
 
 Want to know more about me? [Check out My Portfolio](https://gaurav62472744.github.io/)
 
