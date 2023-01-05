@@ -1,14 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
- <img  width="600" height="250" src="https://user-images.githubusercontent.com/110033104/210885120-13176e5e-200e-4c36-8b26-4c843ad4b030.gif" />
+ <img  width="900" height="230" src="https://user-images.githubusercontent.com/110033104/210885120-13176e5e-200e-4c36-8b26-4c843ad4b030.gif" />
 </div>
-
-
-
-
-
-
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
