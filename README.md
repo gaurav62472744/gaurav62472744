@@ -59,7 +59,7 @@ industry to utilize my skills and learn more.
   <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gaurav62472744&layout=compact&langs_count=8&theme=algolia"/>
   <p align="center">
   <img width="49%"src="https://github-readme-stats-eight-theta.vercel.app/api?username=gaurav62472744&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav62472744&theme=algolia" alt="streak"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav62472744&theme=algolia" alt="streak"/>
 </p>
 </a>
 </p>
