@@ -34,6 +34,9 @@ industry to utilize my skills and learn more.
   <li>
     <a href="https://gaurav62472744.github.io/" target="blank">Portfolio</a>
   </li>
+  <li>
+    <a href="https://drive.google.com/file/d/1pn4zSo8nAFurcvq1DALY5tLMBKGeYwEC/view?usp=share_link/" target="blank">Portfolio</a>
+  </li>
 </ul>
 
 
