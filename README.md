@@ -26,6 +26,11 @@ industry to utilize my skills and learn more.
 💬 Ask me about Mongo DB, Express JS, React, Node, JavaScript, HTML, CSS, DSA <br>
 
 📫 How to reach me: anu62472744@gmail.com<br>
+<h3 align="left">Resume</h3>
+<ul> <li>
+    <a href="https://drive.google.com/file/d/1pn4zSo8nAFurcvq1DALY5tLMBKGeYwEC/view?usp=share_link/" target="blank">Resume</a>
+  </li></ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <ul>
@@ -34,9 +39,7 @@ industry to utilize my skills and learn more.
   <li>
     <a href="https://gaurav62472744.github.io/" target="blank">Portfolio</a>
   </li>
-  <li>
-    <a href="https://drive.google.com/file/d/1pn4zSo8nAFurcvq1DALY5tLMBKGeYwEC/view?usp=share_link/" target="blank">Resume</a>
-  </li>
+ 
 </ul>
 
 
